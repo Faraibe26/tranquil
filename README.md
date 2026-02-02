@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sagor2050/tranquil.git
 cd tranquil
 ```
 
@@ -88,6 +88,9 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
+
+
+
 ##  Beginner's Guide: From Clone to Pull Request
 
 This guide will walk you through the complete process of contributing to Tranquil, from cloning the repository to creating your first pull request.
@@ -97,11 +100,9 @@ This guide will walk you through the complete process of contributing to Tranqui
 First, clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sagor2050/tranquil.git
 cd tranquil
 ```
-
-**Note**: Replace `<repository-url>` with the actual repository URL (e.g., `https://github.com/your-org/tranquil.git`)
 
 ### Step 2: Install Dependencies
 
@@ -207,10 +208,10 @@ git commit -m "feat: add new call-to-action button to homepage"
 - `test:` - Adding or updating tests
 
 **Good commit messages:**
-- ✅ `feat: add user login functionality`
-- ✅ `fix: resolve navbar mobile menu issue`
-- ❌ `update stuff`
-- ❌ `fix bug`
+-  `feat: add user login functionality`
+-  `fix: resolve navbar mobile menu issue`
+-  `update stuff`
+-  `fix bug`
 
 ### Step 8: Push Your Branch to GitHub
 
